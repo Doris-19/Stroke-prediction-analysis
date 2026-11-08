@@ -48,6 +48,17 @@ Source: [Kaggle – Stroke Prediction Dataset](https://www.kaggle.com/datasets/f
 - Logistic Regression with an optimised classification threshold was selected as the final analytical candidate.
 - Final model results: 86.69% accuracy, 58% recall, 20.14% precision and 0.8377 ROC AUC.
 
+## Visualisations
+
+### Stroke Distribution
+![Stroke Distribution](images/stroke_distribution.png)
+
+### Patient Clusters
+![Patient Clusters](images/patient_clusters_pca.png)
+
+### Classification ROC Curves
+![ROC Curves](images/classification_roc_curves.png)
+
 ## Conclusion
 The project demonstrates how data science and machine learning can be applied to healthcare data to explore stroke-related patterns and develop predictive models.
 
